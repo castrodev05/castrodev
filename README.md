@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Metas</h2>
+<h2 align="left">Goals</h2>
 
 ###
 
