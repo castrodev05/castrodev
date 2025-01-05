@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Murilo and I'm a jovem muito curioso, com vontade de aprende assuntos novos a cada dia na programação!</p>
+<p align="left">My name is Murilo, and I'm a very curious young person, eager to learn new topics every day in the programming</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Atualmente eu estou no 1º semestre da faculdade de ADS.<br>🎲 Objetivos: conseguir um estágio na área e poder me aperfeiçoar cada vez mais na linguagem JAVA e os seus respectivos frameworks (Springs).</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently, I'm in the 1st semester of college, studying Systems Analysis and Development (ADS).<br>🎲 Goals: to secure an internship in the field and continuously improve my skills in the JAVA language and its related frameworks (Springs).</p>
 
 ###
 
